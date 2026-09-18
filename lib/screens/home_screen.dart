@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../models/catalog_item.dart';
+import '../models/catalog_item.dart';
 import 'detail_screen.dart';
 
 /// Screen 1 (Beranda/Katalog)

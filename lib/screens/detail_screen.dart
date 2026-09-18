@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../models/catalog_item.dart';
+import '../models/catalog_item.dart';
 
 /// Screen 2 (Detail Katalog)
 /// - Wajib StatefulWidget (tantangan tambahan: ada state interaktif)
